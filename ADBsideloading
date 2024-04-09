@@ -1,0 +1,1 @@
+adb sideload payload.bin
